@@ -16,6 +16,7 @@ class Sampler {
   int startTime;
   int playbackFrame;
   
+  
   Sampler() {
     samples = new ArrayList<Sample>();
     startTime = 0;
